@@ -65,6 +65,7 @@ Pendiente → En Progreso → Resuelta.
 
 👑 4. Menú de Administrador
 1️⃣ Gestión de Usuarios
+
 a) Dar de Alta
 Rellena un formulario con datos del nuevo cliente o técnico.
 
@@ -83,6 +84,7 @@ Elige una incidencia y asígnala a un técnico disponible.
 
 3️⃣ Ver Todas las Incidencias
 Accede al historial completo de incidencias registradas.
+
 --------------------------------------------------------
 
 ✨ ¡Gracias por usar InciTrack! Optimiza tu gestión de incidencias con nosotros. 🚀
