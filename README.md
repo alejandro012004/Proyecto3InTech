@@ -33,6 +33,8 @@ Estado actual.
 
 Resolución (si está resuelta).
 
+--------------------------------------------------------
+
 🔧 3. Menú de Técnico
 1️⃣ Ver Incidencias Asignadas
 Listado de incidencias asignadas a tu perfil.
@@ -69,10 +71,6 @@ Elige una incidencia y asígnala a un técnico disponible.
 
 3️⃣ Ver Todas las Incidencias
 Accede al historial completo de incidencias registradas.
-
-📥 Descarga y Soporte
-Soporte técnico: soporte@incitrack.com
-
-Versión actual: 1.0
+----------------------------------------------------------
 
 ✨ ¡Gracias por usar InciTrack! Optimiza tu gestión de incidencias con nosotros. 🚀
