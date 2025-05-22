@@ -10,10 +10,14 @@ InciTrack es una aplicación que centraliza la gestión de incidencias, permitie
 
 Con una interfaz intuitiva y segura, optimiza la comunicación y reduce tiempos de respuesta.
 
+--------------------------------------------------------
+
 🔐 1. Inicio de Sesión
 Ingresa tu email y contraseña.
 
 Haz clic en "Iniciar Sesión".
+
+--------------------------------------------------------
 
 👤 2. Menú de Cliente
 1️⃣ Crear Nueva Incidencia
@@ -51,6 +55,8 @@ Actualiza el estado entre:
 
 Pendiente → En Progreso → Resuelta.
 
+--------------------------------------------------------
+
 👑 4. Menú de Administrador
 1️⃣ Gestión de Usuarios
 a) Dar de Alta
@@ -71,6 +77,6 @@ Elige una incidencia y asígnala a un técnico disponible.
 
 3️⃣ Ver Todas las Incidencias
 Accede al historial completo de incidencias registradas.
-----------------------------------------------------------
+--------------------------------------------------------
 
 ✨ ¡Gracias por usar InciTrack! Optimiza tu gestión de incidencias con nosotros. 🚀
