@@ -1,12 +1,18 @@
-Bienvenido al manual de usuario de InciTrack, una solución integral para la gestión de incidencias diseñada para empresas, técnicos y clientes.
+Bienvenido a InciTrack, una solución integral para la gestión de incidencias diseñada para empresas, técnicos y clientes.
 
 📌 Descripción
 InciTrack es una aplicación que centraliza la gestión de incidencias, permitiendo:
+
 ✔ Registro detallado de problemas por parte de clientes.
+
 ✔ Asignación automática o manual a técnicos disponibles.
+
 ✔ Seguimiento en tiempo real del estado de cada incidencia.
+
 ✔ Gestión de usuarios (clientes, técnicos y administradores).
+
 ✔ Historial completo de incidencias resueltas.
+
 
 Con una interfaz intuitiva y segura, optimiza la comunicación y reduce tiempos de respuesta.
 
